@@ -42,6 +42,8 @@ call dein#add('Shougo/vimproc.vim', {'build' : 'make'})
 call dein#add('eagletmt/ghcmod-vim')
 call dein#add('jvoorhis/coq.vim')
 " call dein#add('eagletmt/coqtop-vim')
+call dein#add('pbrisbin/vim-syntax-shakespeare')
+call dein#add('fatih/vim-go')
 
 " You can specify revision/branch/tag.
 "call dein#add('Shougo/vimshell', { 'rev': '3787e5' })
